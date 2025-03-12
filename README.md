@@ -1,4 +1,4 @@
-# gpu-datasheet
+# GPU Datasheet
 
 ## Blackwell
 | Architecture | Name | GPU Memory | Memory Bandwidth | FP16 / BF16 | FB8 / INT8 | FP4 | Datasheet |
@@ -33,3 +33,19 @@
 | Ampere | GeForce RTX 3090 | 24 GB | 936 GB/s | 285 TOPS | [Link](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/#specs) |
 | Ada Lovelace | GeForce RTX 4090 | 24 GB | 1 TB/s | 1321 TOPS | [Link](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/#specs) |
 | Blackwell | GeForce RTX 5090 | 32 GB | 1.79 TB/s | 3352 TOPS | [Link](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/#specs) |
+
+## NVLink
+| Generation | Architecture | Connection each | Links per GPU | Total Bandwidth |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| NVLink1 | Pascal | 40 GB/s | 4 | 160 GB/s |
+| NVLink2 | Volta | 50 GB/s | 6 | 300 GB/s |
+| NVLink3 | Ampere | 50 GB/s | 12 | 600 GB/s |
+| NVLink4 | Hopper | 50 GB/s | 18 | 900 GB/s |
+| NVLink5 | Blackwell | 100 GB/s | 18 | 1.8 TB/s |
+
+- Note
+    - H800: 400 GB/s, [Link](https://chaoqing-i.com/upload/20231128/NVIDIA%20H800%20GPU%20Datasheet.pdf)
+
+## References
+[NVLink NVSwitch](https://hc34.hotchips.org/assets/program/conference/day2/Network%20and%20Switches/NVSwitch%20HotChips%202022%20r5.pdf)
+[NVLink and NVLink Switch (Cloud & Data Center)](https://www.nvidia.com/en-us/data-center/nvlink/)
