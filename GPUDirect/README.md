@@ -9,6 +9,7 @@
 ## [GPUDirect P2P]()
 - PCIE
 - NVLink
+- NVSwitch
 
 ## [GPUDirect RDMA]()
 - [RDMA Aware Programming User Manul](https://docs.nvidia.com/rdma-aware-networks-programming-user-manual-1-7.pdf)
