@@ -30,7 +30,7 @@
 - [Programming Example](https://docs.nvidia.com/networking/display/rdmaawareprogrammingv17/programming+examples+using+ibv+verbs)
 
 ## [NVSHMEM](https://developer.nvidia.com/nvshmem)
-- [Technical Blog 1](https://developer.nvidia.com/blog/enhancing-application-portability-and-compatibility-across-new-platforms-using-nvidia-magnum-io-nvshmem-3-0/) | [Technical Blog 2](https://developer.nvidia.com/blog/improving-network-performance-of-hpc-systems-using-nvidia-magnum-io-nvshmem-and-gpudirect-async/) | [Technical Blog 3](https://developer.nvidia.com/blog/scaling-scientific-computing-with-nvshmem/) | [Technical Blog 4](https://developer.nvidia.com/blog/accelerating-nvshmem-2-0-team-based-collectives-using-nccl/) | 
+- [Technical Blog 1](https://developer.nvidia.com/blog/enhancing-application-portability-and-compatibility-across-new-platforms-using-nvidia-magnum-io-nvshmem-3-0/) | [Technical Blog 2](https://developer.nvidia.com/blog/improving-network-performance-of-hpc-systems-using-nvidia-magnum-io-nvshmem-and-gpudirect-async/) | [Technical Blog 3](https://developer.nvidia.com/blog/scaling-scientific-computing-with-nvshmem/) | [Technical Blog 4](https://developer.nvidia.com/blog/accelerating-nvshmem-2-0-team-based-collectives-using-nccl/)
 - [NVSHMEM Doc](https://docs.nvidia.com/hpc-sdk/nvshmem/index.html)
 
 ## [NIXL]()
