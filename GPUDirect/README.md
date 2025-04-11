@@ -33,6 +33,9 @@
 - [Technical Blog 1](https://developer.nvidia.com/blog/enhancing-application-portability-and-compatibility-across-new-platforms-using-nvidia-magnum-io-nvshmem-3-0/) | [Technical Blog 2](https://developer.nvidia.com/blog/improving-network-performance-of-hpc-systems-using-nvidia-magnum-io-nvshmem-and-gpudirect-async/) | [Technical Blog 3](https://developer.nvidia.com/blog/scaling-scientific-computing-with-nvshmem/) | [Technical Blog 4](https://developer.nvidia.com/blog/accelerating-nvshmem-2-0-team-based-collectives-using-nccl/)
 - [NVSHMEM Doc](https://docs.nvidia.com/hpc-sdk/nvshmem/index.html)
 
+## [IBRC & IBGDA]()
+- [Technical Blog](https://developer.nvidia.com/blog/improving-network-performance-of-hpc-systems-using-nvidia-magnum-io-nvshmem-and-gpudirect-async/)
+
 ## [NIXL]()
 - [Technical Blog](https://developer.nvidia.com/blog/introducing-nvidia-dynamo-a-low-latency-distributed-inference-framework-for-scaling-reasoning-ai-models/)
 - [Github](https://github.com/ai-dynamo/nixl)
