@@ -32,7 +32,8 @@
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Ampere | GeForce RTX 3090 | 24 GB | 936 GB/s | 285 TOPS | [Link](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/#specs) |
 | Ada Lovelace | GeForce RTX 4090 | 24 GB | 1 TB/s | 1321 TOPS | [Link](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/#specs) |
-| Blackwell | GeForce RTX 5090 | 32 GB | 1.79 TB/s | 3352 TOPS | [Link1](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/#specs), [link2](https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf)|
+| Blackwell | GeForce RTX 5090 | 32 GB (GDDR7) | 1.79 TB/s | 225.1 TFOPS (FP8) | [Link1](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/#specs), [link2](https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf)|
+| Blackwell | RTX PRO 6000 | 96 GB (GDDR7) | 1.79 TB/s | 1007.6 TFOPS (FP8) | [Link1](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/NVIDIA-RTX-Blackwell-PRO-GPU-Architecture-v1.0.pdf)|
 
 ## NVLink
 | Generation | Architecture | Connection each | Links per GPU | Total Bandwidth |
